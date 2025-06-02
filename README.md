@@ -100,39 +100,7 @@ amc-ai-chatbot/
 - User-friendly error messages
 - Graceful degradation
 
-## Installation
 
-1. Clone the repository:
-```bash
-git clone https://github.com/your-username/amc-ai-chatbot.git
-cd amc-ai-chatbot
-```
-
-2. Install frontend dependencies:
-```bash
-cd frontend
-npm install
-```
-
-3. Install backend dependencies:
-```bash
-cd ../backend
-npm install
-```
-
-4. Start the development servers:
-
-Frontend:
-```bash
-cd frontend
-npm start
-```
-
-Backend:
-```bash
-cd backend
-npm start
-```
 
 ## Environment Variables
 
